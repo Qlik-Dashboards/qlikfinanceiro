@@ -34,7 +34,7 @@ O Dashboard de Contas a Pagar e Contas a Receber oferece diversas funcionalidade
 
 ## Como Contribuir 👥
 
-Se você deseja contribuir com melhorias para o Dashboard de Contas a Pagar e Contas a Receber ou encontrar problemas, fique à vontade para abrir uma [issue](https://github.com/seu_usuario/qlikfinanceiro/issues) ou enviar um pull request. Sua colaboração é valiosa para aprimorar a qualidade das análises e obter insights ainda mais precisos para a gestão financeira.
+Se você deseja contribuir com melhorias para o Dashboard de Contas a Pagar e Contas a Receber ou encontrar problemas, fique à vontade para abrir uma [issue](https://github.com/matfurrier/qlikfinanceiro/issues) ou enviar um pull request. Sua colaboração é valiosa para aprimorar a qualidade das análises e obter insights ainda mais precisos para a gestão financeira.
 
 ## 📄 Licença
 
